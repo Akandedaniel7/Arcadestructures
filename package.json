@@ -1,0 +1,14 @@
+{
+  "name": "arcadestructures",
+  "version": "1.0.0",
+  "description": "A Construction Company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DevelopIQ Organization",
+  "license": "ISC",
+  "dependencies": {
+    "@sanity/client": "^6.1.3"
+  }
+}
